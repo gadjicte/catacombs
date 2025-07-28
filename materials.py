@@ -4,5 +4,5 @@ class materials:
     self.type=type
 
 
-clay = materials (name = "clay"
-                  type= common )    
+clay = materials (name = "clay"  type= "common" )    
+                
